@@ -1,5 +1,5 @@
 body {
-    background-color: #d2e2f2;
+    background-color: #dec1ee;
     font-family: Roboto, sans-serif;
 }
 
@@ -10,4 +10,5 @@ h1 {
 .container {
     max-width: 960px;
     margin: 0 auto;
+    padding-bottom: 20px;
 }
