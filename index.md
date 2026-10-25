@@ -1,4 +1,4 @@
-## Tervetuloa Veeran GitHub Pages-sivustolle!
+## Tervetuloa GitHub Pages-sivustolleni!
 
 - [Viikko 1](viikko1.html)
 - [Viikko 2]()
