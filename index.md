@@ -1,3 +1,5 @@
+Jekyll-teemaa käyttävä sivusto
+
 ## Tervetuloa GitHub Pages-sivustolleni!
 
 - [Viikko 1](viikko1.html)
