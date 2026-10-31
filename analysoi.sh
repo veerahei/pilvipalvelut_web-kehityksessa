@@ -3,6 +3,7 @@ find . -type f -name "*.py" | grep -q . && echo "- Python"
 find . -type f -name "*.java" | grep -q . && echo "- Java"
 find . -type f -name "*.js" | grep -q . && echo "- JavaScript"
 find . -type f -name "*.ts" | grep -q . && echo "- TypeScript"
+find . -type f -name "*.html" | grep -q . && echo "- HTML"
 
 echo "Design patterns detected:" > analysis_report.txt
 
